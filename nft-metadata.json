@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Phone",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "slim",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most affordable gadget.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmYWgJHiUrDef2PqZMf1JTRQHogBbGck3dDxNME5F5XpRK",
+    "name" : "Rubble"
+}
